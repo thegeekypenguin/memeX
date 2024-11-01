@@ -1,4 +1,4 @@
-# Webster 2021 | MemeIt
+# Webster 2024 | MemeIt
 <ul>
 <li>Team Name : Coding Heist</li>
 <li>Idea : Meme-It</li>
